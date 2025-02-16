@@ -1,0 +1,1 @@
+print(1000000*0.1) # one million sq decimetres * 1/10 decimetres
