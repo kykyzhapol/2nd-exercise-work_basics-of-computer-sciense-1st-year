@@ -53,4 +53,4 @@ print(bulls_num % tribe_num)
 #10th
 import math
 metre = int(input()) / 1609.344
-print(math.floor(metre))
+print(math.floor(metre)) #final task
