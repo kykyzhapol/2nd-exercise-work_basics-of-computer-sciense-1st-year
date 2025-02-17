@@ -4,7 +4,8 @@ print(int((total_price-96*48)/6))
 
 #2nd
 country = input().split()
-for i in country: print(i.title())
+print(country[0], country[1], sep='\n')
+#for i in country: print(i.title())
 
 
 
